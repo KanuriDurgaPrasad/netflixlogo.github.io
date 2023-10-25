@@ -1,1 +1,1 @@
-Netflix intro logo animation link :- https://kanuridurgaprasad.github.io/netflixlogo.github.io/
+Netflix intro logo animation link :- netflixintro.ccbp.tech
